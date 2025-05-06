@@ -45,8 +45,8 @@ This project uses a MERN-style stack adapted for mobile, with image upload, rand
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/react-native-bookshare.git
-cd react-native-bookshare
+git clone https://github.com/yourusername/react-native-bookworm.git
+cd react-native-bookworm
 ```
 
 ### 2. Install Dependencies
