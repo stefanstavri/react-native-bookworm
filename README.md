@@ -1,6 +1,6 @@
-# 📚 BookShare – React Native Book Recommendation App
+# 📚 BookWorm – React Native Book Recommendation App
 
-**BookShare** is a full-stack mobile app built with React Native that allows users to share and discover book recommendations. Users can log in, browse community posts, share new books, and manage their own recommendations. 
+**BookWorm** is a full-stack mobile app built with React Native that allows users to share and discover book recommendations. Users can log in, browse community posts, share new books, and manage their own recommendations. 
 
 This project uses a MERN-style stack adapted for mobile, with image upload, random avatars, and deployment handled in the cloud.
 
@@ -39,7 +39,7 @@ This project uses a MERN-style stack adapted for mobile, with image upload, rand
 - Node.js
 - MongoDB Atlas account
 - Cloudinary account
-- Expo CLI (if using Expo)
+- Expo CLI
 
 
 ### 1. Clone the Repo
