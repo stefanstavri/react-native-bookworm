@@ -41,7 +41,7 @@ router.get("/", protectRoute, async (req, res) => {
 
     try {
         const page = req.query.page || 1; // default to page 1 if not provided
-        const limit = req.query.limit || 2; // default to 5 items per page if not provided
+        const limit = req.query.limit || 5; // default to 5 items per page if not provided
         const skip = (page - 1) * limit; // calculate the number of items to skip
 
         const books = await Book.find()
